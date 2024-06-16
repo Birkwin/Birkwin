@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Birkwin
 - 👀 I’m interested in puzzles, board games and music :O
-- 🌱 I’m currently working on my masters thesis, will be done by November :D
+- 🌱 I have a masters in Biomedical Engineering, but this account is not for work, but for personal projects :D
 - 📫 You can reach me at @birkwin on Discord !
 
 <!---
